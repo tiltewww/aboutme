@@ -1,0 +1,38 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+.img-products{
+  width: 296px;
+  height: 296px;
+  border: 1px solid black;
+  margin: 5px;
+  text-align: center;
+}
+.card-div{
+  width: 296px;
+  height: 230px;
+  float:left; 
+  margin: 0 15px 15px 0; 
+  text-align:center;
+  padding: 10px;
+  position: relative;
+}
+textarea {
+  width: 1030px;
+  height: 385px;
+  resize: vertical;
+  padding:15px;
+  border: 1px solid black;
+  box-shadow:4px 4px 10px rgba(0,0,0,0.06);
+}
+
+#socials{
+  display: inline-block;
+  text-decoration: none;
+  
+}
+li{
+  display: block;
+  margin: 10px;
+}
